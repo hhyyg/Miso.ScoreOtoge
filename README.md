@@ -11,13 +11,8 @@
 
 - [フリー効果音素材 『タンバリンの音』 試聴ページ｜フリーBGM DOVA\-SYNDROME](https://dova-s.jp/se/play847.html)
 
-## Score Spec
-
-- read first tempo.
-
-### Support Note Type
+## Support Note Type
 
 - quarter
-- 
-
-### 
+- eighth
+- sixteenth
