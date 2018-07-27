@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtoGe", "Assembly-CSharp.csproj", "{F23F8FF4-87A0-17A0-FF63-958CFE0D8F57}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CopyDlls", "CopyDlls\CopyDlls.csproj", "{A1DEB765-5D3C-4799-A4E6-942CF48065E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game.OtoGe.Library", "Game.OtoGe.Library\Game.OtoGe.Library.csproj", "{FD14A84C-B7FE-49A4-887B-77F82D3FC99C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game.OtoGe.MusicXML", "Game.OtoGe.MusicXML\Game.OtoGe.MusicXML.csproj", "{C4ECAB70-3F96-48DF-B179-C93D3681E59A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game.OtoGe.MusicXML.Tests", "Game.OtoGe.MusicXML.Tests\Game.OtoGe.MusicXML.Tests.csproj", "{98ED060D-5622-47B1-8431-AC063F06029E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Game.OtoGe.Library.Tests", "Game.OtoGe.Library.Tests\Game.OtoGe.Library.Tests.csproj", "{0DEEFB86-B43E-4A0B-ABB9-95C94DCADC28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F23F8FF4-87A0-17A0-FF63-958CFE0D8F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23F8FF4-87A0-17A0-FF63-958CFE0D8F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23F8FF4-87A0-17A0-FF63-958CFE0D8F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23F8FF4-87A0-17A0-FF63-958CFE0D8F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1DEB765-5D3C-4799-A4E6-942CF48065E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DEB765-5D3C-4799-A4E6-942CF48065E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DEB765-5D3C-4799-A4E6-942CF48065E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DEB765-5D3C-4799-A4E6-942CF48065E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD14A84C-B7FE-49A4-887B-77F82D3FC99C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD14A84C-B7FE-49A4-887B-77F82D3FC99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD14A84C-B7FE-49A4-887B-77F82D3FC99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD14A84C-B7FE-49A4-887B-77F82D3FC99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4ECAB70-3F96-48DF-B179-C93D3681E59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4ECAB70-3F96-48DF-B179-C93D3681E59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4ECAB70-3F96-48DF-B179-C93D3681E59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4ECAB70-3F96-48DF-B179-C93D3681E59A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98ED060D-5622-47B1-8431-AC063F06029E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98ED060D-5622-47B1-8431-AC063F06029E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98ED060D-5622-47B1-8431-AC063F06029E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98ED060D-5622-47B1-8431-AC063F06029E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DEEFB86-B43E-4A0B-ABB9-95C94DCADC28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DEEFB86-B43E-4A0B-ABB9-95C94DCADC28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DEEFB86-B43E-4A0B-ABB9-95C94DCADC28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DEEFB86-B43E-4A0B-ABB9-95C94DCADC28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
